@@ -1,0 +1,16 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="ahmettavli">
+    <words>
+      <w>adadelta</w>
+      <w>adagrad</w>
+      <w>adamax</w>
+      <w>crossentropy</w>
+      <w>mnist</w>
+      <w>nadam</w>
+      <w>relu</w>
+      <w>rmsprop</w>
+      <w>selu</w>
+      <w>softmax</w>
+    </words>
+  </dictionary>
+</component>
