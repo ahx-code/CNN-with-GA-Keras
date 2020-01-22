@@ -99,12 +99,10 @@ for q in N:
 
 :thought_balloon:
 
-## Contributing
-
+## Contributing
 Pull requests are welcome.
 
 For major changes, please open an issue, then discuss what you would like to change.
 
-## License
-
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
