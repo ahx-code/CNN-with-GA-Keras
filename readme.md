@@ -97,10 +97,14 @@ for q in N:
         exit(code=0)
 ```
 
-:thought_balloon:
-## Contributing
-Pull requests are welcome.
+:thought_balloon:  
+
+## Contributing  
+
+Pull requests are welcome.  
+
 For major changes, please open an issue, then discuss what you would like to change.
 
-## License
+## License  
+
 [MIT](https://choosealicense.com/licenses/mit/)
