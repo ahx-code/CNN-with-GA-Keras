@@ -1,8 +1,8 @@
-# 2-Layer Convolutional Neural Network (CNN) with Genetic Algorithm (GA) Keras Implementation
+#2-Layer Convolutional Neural Network (CNN) with Genetic Algorithm (GA) Keras Implementation
 
 This is a tutorial for how GA finds the optimum parameters for the designed model
 
-## Model
+##Model
 
 The model is inspired from the [Keras Mnist implementation](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
 
@@ -97,14 +97,14 @@ for q in N:
         exit(code=0)
 ```
 
-:thought_balloon:  
+:thought_balloon:
 
-## Contributing  
+## Contributing
 
-Pull requests are welcome.  
+Pull requests are welcome.
 
 For major changes, please open an issue, then discuss what you would like to change.
 
-## License  
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
