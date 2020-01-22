@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras.svg?branch=master)](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras)
+
 # 2-Layer Convolutional Neural Network (CNN) with Genetic Algorithm (GA) Keras Implementation
 
 This is a tutorial for how GA finds the optimum parameters for the designed model
