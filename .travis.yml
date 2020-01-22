@@ -4,3 +4,6 @@ python:
 install:
   - pip install numpy
   - pip install tensorflow==2.0.0
+script:
+  - pytest
+
