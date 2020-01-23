@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras.svg?branch=master)](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![License: MIT](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/keras.svg)](https://keras.io/)
+[![Keras](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/keras.svg)](https://keras.io/)
+[![PyCharm](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/pycharm.svg)](https://www.jetbrains.com/pycharm/)
 
 
 # 2-Layer Convolutional Neural Network (CNN) with Genetic Algorithm (GA) Keras Implementation
