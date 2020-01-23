@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras.svg?branch=master)](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Keras](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/keras.svg)](https://keras.io/)
+[![Numpy](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/numpy.svg)](https://numpy.org/)
+[![Python](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/python.svg)](https://www.python.org/)
 [![PyCharm](https://github.com/AhmetTavli/CNN-with-GA-Keras/blob/master/logos/pycharm.svg)](https://www.jetbrains.com/pycharm/)
 
 
