@@ -1,3 +1,25 @@
+# MIT License
+#
+# Copyright (c) 2020 Ahmet Tavl\{i}
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
 from keras.datasets.mnist import load_data
 from keras import backend as k
 from keras.utils import to_categorical
@@ -36,21 +58,21 @@ def mnist(show_examples=False):
 
 class Net:
     def __init__(self):
-        self.ep = randint(1, 3)  # epoch
-        self.f1 = randint(30, 34)  # filter size 1
-        self.f2 = randint(62, 66)  # filter size 2
-        self.u1 = randint(126, 130)  # unit
-        self.k1 = choice([(3, 3), (5, 5)])  # kernel size 1
-        self.k2 = choice([(3, 3), (5, 5)])  # kernel size 2
-        self.d1 = choice([0.25, 0.5])  #  dropout 1
-        self.d2 = choice([0.25, 0.5])  #  dropout 2
-        self.a1 = 'relu'  # activation 1
-        self.a2 = 'relu'  # activation 2
-        self.a3 = 'relu'  # activation 3
-        self.a4 = 'softmax'  # activation 4
+        self.ep = randint(1, 3)               # epoch
+        self.f1 = randint(30, 34)             # filter size 1
+        self.f2 = randint(62, 66)             # filter size 2
+        self.u1 = randint(126, 130)           # unit
+        self.k1 = choice([(3, 3), (5, 5)])    # kernel size 1
+        self.k2 = choice([(3, 3), (5, 5)])    # kernel size 2
+        self.d1 = choice([0.25, 0.5])         #  dropout 1
+        self.d2 = choice([0.25, 0.5])         #  dropout 2
+        self.a1 = 'relu'                      # activation 1
+        self.a2 = 'relu'                      # activation 2
+        self.a3 = 'relu'                      # activation 3
+        self.a4 = 'softmax'                   # activation 4
         self.lf = 'categorical_crossentropy'  # loss function
-        self.op = 'adadelta'  # optimization
-        self.ac = 0  # accuracy
+        self.op = 'adadelta'                  # optimization
+        self.ac = 0                           # accuracy
 
     def init_params(self):
         params = {'epochs': self.ep,

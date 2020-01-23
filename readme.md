@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras.svg?branch=master)](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://aleen42.github.io/badges/src/tensorflow.svg)](https://opensource.org/licenses/MIT)
+
 
 # 2-Layer Convolutional Neural Network (CNN) with Genetic Algorithm (GA) Keras Implementation
 
@@ -99,12 +102,10 @@ for q in N:
         exit(code=0)
 ```
 
-:thought_balloon:
-
-## Contributing
+## Contributing :thought_balloon:
 Pull requests are welcome.
 
 For major changes, please open an issue, then discuss what you would like to change.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+ ## License :scroll:
+[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)

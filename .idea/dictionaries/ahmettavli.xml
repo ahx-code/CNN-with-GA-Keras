@@ -4,6 +4,7 @@
       <w>adadelta</w>
       <w>adagrad</w>
       <w>adamax</w>
+      <w>ahmet</w>
       <w>crossentropy</w>
       <w>mnist</w>
       <w>nadam</w>
@@ -11,6 +12,7 @@
       <w>rmsprop</w>
       <w>selu</w>
       <w>softmax</w>
+      <w>tavl</w>
     </words>
   </dictionary>
 </component>
