@@ -109,6 +109,3 @@ for q in N:
 Pull requests are welcome.
 
 For major changes, please open an issue, then discuss what you would like to change.
-
- ## License :scroll:
-[MIT](https://opensource.org/licenses/MIT)
