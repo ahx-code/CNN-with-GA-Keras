@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras.svg?branch=master)](https://travis-ci.org/AhmetTavli/CNN-with-GA-Keras)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ahx-code/CNN-with-GA-Keras.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ahx-code/CNN-with-GA-Keras/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ahx-code/CNN-with-GA-Keras.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ahx-code/CNN-with-GA-Keras/context:python)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Keras](https://github.com/AhmetTavli/Badge/blob/master/badges/keras_badge.svg)](https://keras.io/)
 [![Numpy](https://github.com/AhmetTavli/Badge/blob/master/badges/numpy_badge.svg)](https://numpy.org/)
